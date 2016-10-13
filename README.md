@@ -1,7 +1,7 @@
 # Intent2
 
 ### A.Judul App
-<br> Judul/ nama dari aplikasi ini adalah Intent1
+<br> Judul/ nama dari aplikasi ini adalah Intent2
 
 ### B. Screenshot
 <br> ![Gambar1](https://github.com/rizaalvinazizi1234/Intent2/blob/master/2a.JPG)
